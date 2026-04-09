@@ -50,7 +50,7 @@
 		"open-menu-keybind": {
 			"type": "keybind",
 			"name": "Open Menu Bind",
-			"default": "Tab",
+			"default": "PageDown",
 			"priority": 8008135
 		}
 	},
